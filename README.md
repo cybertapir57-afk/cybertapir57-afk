@@ -1,16 +1,13 @@
 ## Hi there 👋
 
-<!--
-**cybertapir57-afk/cybertapir57-afk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Adli Azhar, an IT tinkerer, work as professional cybersecurity personnel. I'm currently working on "Journaling" my pth toward specific goal in cyber. Hoping it may contribute to the newcomer or even myself in the future.
+My skills  mostly involved in log analysis, incident handling, documentation, improving existing process, threat detection engineer and security posture auditing.
+The knowledge I'm honing right now are; 
+  - IT deployment (web application deployment - home server; pi-hole media plex server, and NAS)
+  - Autoamtion skills (PowerShell, Bash script, VBScript and Python)
+  - Forensic skills (Data Acquisition, network packet analysis, web log analysis, processflow analysis, Reverse Engineering)
+  - Basic pentesting skills (privesc for PSadmin, Wifi_Cracking)
+  - Defensive skiils (Buiding my own SIEM environment, Building my own threat detection framework)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You amy contact me via linkedIn
+Regards

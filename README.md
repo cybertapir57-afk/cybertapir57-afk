@@ -26,7 +26,7 @@ The project that I do:
 The layout of my repo
   - Summary
   - Objective
-  - Reference
+  - References (website link,learning material, video)
   - My learning journal 
   
 You may contact me via linkedIn

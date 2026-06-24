@@ -1,33 +1,51 @@
-## Hi there 👋
+# 👋 Hi, I'm Adli Azhar
 
-I'm Adli Azhar, an IT tinkerer, work as professional cybersecurity personnel. I'm currently working on "Journaling" my pth toward specific goal in cyber. Hoping it may contribute to the newcomer or even myself in the future.
-My skills  mostly involved in log analysis, incident handling, documentation, improving existing process, threat detection engineer and security posture auditing.
-The knowledge I'm honing right now are; 
-  - IT deployment (web application deployment - home server; pi-hole media plex server, and NAS)
-  - Autoamtion skills (PowerShell, Bash script, VBScript and Python)
-  - Forensic skills (Data Acquisition, network packet analysis, web log analysis, processflow analysis, Reverse Engineering)
-  - Basic pentesting skills (privesc for PSadmin, Wifi_Cracking)
-  - Defensive skiils (Buiding my own SIEM environment, Building my own threat detection framework)
+Cybersecurity professional & IT tinkerer, documenting my journey in tech and security.  
+This repo serves as my learning journal and resource hub — both for newcomers and for my own growth.
 
-The tool that use:
-  - Wazuh
-  - Pi-hole
-  - Linux Distro
-  
-The project that I do:
-  - OS management
-  - Home server
-  - Enterprise environment (ADDC)
-  - Logging
-  - SIEM deployment
-  - Dashboard
-  - Automation
-  
-The layout of my repo
-  - Summary
-  - Objective
-  - References (website link,learning material, video)
-  - My learning journal 
-  
-You may contact me via linkedIn
-Regards
+---
+
+## 🔧 Skills & Focus Areas
+- **Cybersecurity**: Log analysis, incident handling, threat detection, security auditing  
+- **Automation**: PowerShell, Bash, VBScript, Python  
+- **Forensics**: Data acquisition, packet analysis, reverse engineering  
+- **Pentesting Basics**: Privilege escalation, Wi-Fi cracking  
+- **Defensive Security**: SIEM setup, detection frameworks  
+
+---
+
+## 🛠 Tools I Use
+- Wazuh  
+- Pi-hole  
+- Linux distros  
+
+---
+
+## 📂 Projects
+- Multi-OS Lab  
+- Home server setup (NAS, Plex, Pi-hole)  
+- Enterprise environment (Active Directory)  
+- Logging & SIEM deployment  
+- Dashboards & automation  
+
+---
+
+## 📑 Repo Layout
+- **Summary**  
+- **Objectives**  
+- **References** (websites, videos, learning materials)  
+- **Learning Journal**  
+
+---
+
+## 🌱 Hobbies & Interests
+- Aquaponic farming  
+- Micro aquascaping  
+- Scenery photography  
+- 3D printing  
+- Coding automation  
+
+---
+
+## 📬 Connect
+Find me on [LinkedIn](https://www.linkedin.com)  

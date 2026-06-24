@@ -9,5 +9,25 @@ The knowledge I'm honing right now are;
   - Basic pentesting skills (privesc for PSadmin, Wifi_Cracking)
   - Defensive skiils (Buiding my own SIEM environment, Building my own threat detection framework)
 
-You amy contact me via linkedIn
+The tool that use:
+  - Wazuh
+  - Pi-hole
+  - Linux Distro
+  
+The project that I do:
+  - OS management
+  - Home server
+  - Enterprise environment (ADDC)
+  - Logging
+  - SIEM deployment
+  - Dashboard
+  - Automation
+  
+The layout of my repo
+  - Summary
+  - Objective
+  - Reference
+  - My learning journal 
+  
+You may contact me via linkedIn
 Regards
